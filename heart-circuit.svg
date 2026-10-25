@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none">
+  <defs>
+    <linearGradient id="heart" x1="18" y1="16" x2="48" y2="76" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#3730a3"/>
+    </linearGradient>
+  </defs>
+  <path d="M46 80 17.5 53.3C2.3 38.9 11.2 14 31.4 14c6.4 0 11.1 2.9 14.6 7.2V80Z" fill="url(#heart)"/>
+  <g stroke="#4338ca" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+    <path d="M47 27h12l8-8h9"/>
+    <path d="M47 38h20l8-8h8"/>
+    <path d="M47 49h12l8-8h13"/>
+    <path d="M47 60h20l8 8h7"/>
+    <path d="M47 71h11l8 8h7"/>
+  </g>
+  <g fill="#fff" stroke="#4338ca" stroke-width="4">
+    <circle cx="78" cy="19" r="5"/>
+    <circle cx="83" cy="30" r="5"/>
+    <circle cx="80" cy="41" r="5"/>
+    <circle cx="82" cy="68" r="5"/>
+    <circle cx="73" cy="79" r="5"/>
+  </g>
+</svg>
